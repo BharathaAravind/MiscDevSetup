@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Aravind Bharatha
+	email = bharathaaravind@gmail.com
+
+[alias]
+	tree =   log --color --graph --pretty=format:'%Cgreen%h%Creset -%C(red bold)%d%Creset %s %C(cyan)[%an %cr]%Creset' --all
